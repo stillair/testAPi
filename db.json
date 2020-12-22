@@ -1,51 +1,55 @@
 {
-    "6": [
-      {
-        "Id": 2,
-        "Name": "Yo Sister",
-        "City": "Paris",
-        "Start": "2021-06-25T00:00:00",
-        "Categories": [
-          1,
-          2,
-          3,
-          10
-        ]
-      }
-    ],
-    "3": [
-      {
-        "Id": 3,
-        "Name": "Yo Grandma",
-        "City": "Paris",
-        "Start": "2021-03-12T00:00:00",
-        "Categories": [
-          1,
-          2,
-          10
-        ]
-      },
-      {
-        "Id": 4,
-        "Name": "Battle 4",
-        "City": "Paris",
-        "Start": "2021-03-17T00:00:00",
-        "Categories": [
-          1,
-          2,
-          10
-        ]
-      },
-      {
-        "Id": 5,
-        "Name": "Battle 5",
-        "City": "Paris",
-        "Start": "2021-03-27T00:00:00",
-        "Categories": [
-          1,
-          2,
-          10
-        ]
-      }
+    "battles":{
+        "6": [
+            {
+              "Id": 2,
+              "Name": "Yo Sister",
+              "City": "Paris",
+              "Start": "2021-06-25T00:00:00",
+              "Categories": [
+                1,
+                2,
+                3,
+                10
+              ]
+            }
+          ],
+          "3": [
+            {
+              "Id": 3,
+              "Name": "Yo Grandma",
+              "City": "Paris",
+              "Start": "2021-03-12T00:00:00",
+              "Categories": [
+                1,
+                2,
+                10
+              ]
+            },
+            {
+              "Id": 4,
+              "Name": "Battle 4",
+              "City": "Paris",
+              "Start": "2021-03-17T00:00:00",
+              "Categories": [
+                1,
+                2,
+                10
+              ]
+            },
+            {
+              "Id": 5,
+              "Name": "Battle 5",
+              "City": "Paris",
+              "Start": "2021-03-27T00:00:00",
+              "Categories": [
+                1,
+                2,
+                10
+              ]
+            }
+    
+
     ]
   }
+}
