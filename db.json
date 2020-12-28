@@ -72,7 +72,7 @@
       "street": "Schutterwälderstraße",
       "housenumber": "3",
       "zip": 77656,
-      "city": "Offenburg",
+      "city": "Offenburg"
     },
     "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "categoires": [
@@ -84,10 +84,10 @@
       {"name": "Lilou", "crews": ["Pokemon Crew"], "imageUrl": "https://scontent-amt2-1.xx.fbcdn.net/v/t31.0-8/883169_121681898024936_622971198_o.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGTlHRHcOzA1EGZ7-AB31r0xgamw86cKafGBqbDzpwpp0y9Cqbw5VuSxqHXAFukbSAEjZDfzT3ffXssG0H4N0bh&_nc_ohc=ky2QCMd7TyAAX9O2LE3&_nc_ht=scontent-amt2-1.xx&oh=0d0906e4b6433c94b3533a0b1893cbcc&oe=6011BAE9"}
     ],
     "djs": [
-      {"name": "Just A Kid", "crews": ["Sucuk Mafia"], "imageUrl": "https://wmafotografie.files.wordpress.com/2014/11/e2b1988.jpg"},
+      {"name": "Just A Kid", "crews": ["Sucuk Mafia"], "imageUrl": "https://wmafotografie.files.wordpress.com/2014/11/e2b1988.jpg"}
     ],
     "hosts":  [
-      {"name": "Godfather", "crews": ["DPC", "B8B"], "imageUrl": "https://scontent-dub4-1.xx.fbcdn.net/v/t1.0-9/117445158_1558786570961707_4125481983094375483_o.jpg?_nc_cat=105&ccb=2&_nc_sid=9267fe&_nc_eui2=AeGhnDdqMWoHDhUHFJui66I8ybq2JyltSqvJurYnKW1Kq7zk02bjgrAvIZUjWejjyoC_8bFvksYlC_NvNhsMw0sG&_nc_ohc=zbRXBoh7tI4AX-UuBxd&_nc_ht=scontent-dub4-1.xx&oh=a5dff251532dc84b9a437a0f7fbd3f20&oe=600F4412"},
+      {"name": "Godfather", "crews": ["DPC", "B8B"], "imageUrl": "https://scontent-dub4-1.xx.fbcdn.net/v/t1.0-9/117445158_1558786570961707_4125481983094375483_o.jpg?_nc_cat=105&ccb=2&_nc_sid=9267fe&_nc_eui2=AeGhnDdqMWoHDhUHFJui66I8ybq2JyltSqvJurYnKW1Kq7zk02bjgrAvIZUjWejjyoC_8bFvksYlC_NvNhsMw0sG&_nc_ohc=zbRXBoh7tI4AX-UuBxd&_nc_ht=scontent-dub4-1.xx&oh=a5dff251532dc84b9a437a0f7fbd3f20&oe=600F4412"}
     ],
     "pricing": [
       {"name": "Participant", "price": 8.5, "registrationRequired": false},
