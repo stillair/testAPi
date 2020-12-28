@@ -94,12 +94,12 @@
       {"name": "Visitor", "price": 6.5, "registrationRequired": false}
     ],
     "timetable": [
-      {"name": "Entry", "start": "2021-09-7T18:00:00"},
-      {"name": "Preselection", "start": "2021-09-7T18:45:00"},
-      {"name": "Top 16", "start": "2021-09-7T20:00:00"},
-      {"name": "Top 8", "start": "2021-09-7T21:00:00"},
-      {"name": "Halffinal", "start": "2021-09-7T22:00:00"},
-      {"name": "Final", "start": "2021-09-7T22:30:00"}
+      {"name": "Entry", "start": "2021-09-07T18:00:00"},
+      {"name": "Preselection", "start": "2021-09-07T18:45:00"},
+      {"name": "Top 16", "start": "2021-09-07T20:00:00"},
+      {"name": "Top 8", "start": "2021-09-07T21:00:00"},
+      {"name": "Halffinal", "start": "2021-09-07T22:00:00"},
+      {"name": "Final", "start": "2021-09-07T22:30:00"}
     ]
   }
 }
