@@ -6,7 +6,6 @@
               "name": "Yo Sister",
               "city": "Paris",
               "start": "2021-06-25T00:00:00",
-              "liked": false,
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3601.jpg?2",
               "categories": [
                 1,
@@ -22,7 +21,6 @@
               "name": "Yo Grandma",
               "city": "Paris",
               "start": "2021-03-12T00:00:00",
-              "liked": false,
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3601.jpg?2",
               "categories": [
                 1,
@@ -35,7 +33,6 @@
               "name": "Battle 4",
               "city": "Paris",
               "start": "2021-03-17T00:00:00",
-              "liked": false,
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3601.jpg?2",
               "categories": [
                 1,
@@ -48,7 +45,6 @@
               "name": "Battle 5",
               "city": "Paris",
               "start": "2021-03-27T00:00:00",
-              "liked": false,
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3601.jpg?2",
               "categories": [
                 1,
