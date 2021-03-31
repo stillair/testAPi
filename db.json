@@ -8,7 +8,7 @@
               "start": "2021-03-24T00:00:00",
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3631.jpg?3",
               "categories": [
-                3,
+                3
               ]
             },
             {
@@ -19,11 +19,11 @@
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3631.jpg?3",
               "categories": [
                 1,
-                2,
+                2
               ]
             }
           ],
-          "4": [
+        "4": [
             {
               "id": 3,
               "name": "World BBoy Classics",
@@ -32,7 +32,7 @@
               "imageUrl": "https://cdn.and8.dance/gfx/fb/1/1225/696985590836444.jpg?2",
               "categories": [
                 1,
-                2,
+                2
               ]
             },
             {
