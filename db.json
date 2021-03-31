@@ -65,21 +65,21 @@
   },
   "id":{
     "id":1,
-    "name": "Legits Blast",
-    "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3614.jpg?8",
-    "start": "2021-09-07T18:00:00",
-    "end": "2021-09-07T23:30:00",
+    "name": "Break X",
+    "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3660.jpg?2",
+    "start": "2021-03-14T18:00:00",
+    "end": "2021-03-14T22:00:00",
     "liked": false,
     "location": {
       "venue": "Oberrheinhalle",
       "street": "Schutterwälderstraße",
       "housenumber": "3",
-      "zip": 77656,
-      "city": "Offenburg"
+      "zip": 70173,
+      "city": "Stuttgart"
     },
     "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "categories": [
-      1, 2
+      3
     ],
     "judges": [
       {"name": "Roxrite", "crews": ["Renegades", "Squadron"], "imageUrl": "https://thesource.com/wp-content/uploads/2015/12/roxrite.jpg"},
