@@ -3,10 +3,10 @@
         "3": [
             {
               "id": 2,
-              "name": "Easter Dance Days",
+              "name": "Break X",
               "city": "Stuttgart",
-              "start": "2021-03-24T00:00:00",
-              "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3631.jpg?3",
+              "start": "2021-03-14T00:00:00",
+              "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3660.jpg?2",
               "categories": [
                 3
               ]
@@ -15,7 +15,7 @@
               "id": 53,
               "name": "The Week",
               "city": "Offenburg",
-              "start": "2021-03-24T00:00:00",
+              "start": "2021-03-20T00:00:00",
               "imageUrl": "https://cdn.and8.dance/gfx/banner/1/1225/3631.jpg?3",
               "categories": [
                 1,
